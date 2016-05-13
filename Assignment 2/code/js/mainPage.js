@@ -1,3 +1,4 @@
+/*jslint white: true */
 // Code for the main app page (locations list).
 
 // This is sample code to demonstrate navigation.

@@ -1,4 +1,4 @@
-
+/*jslint white: true */
 // Returns a date in the format "YYYY-MM-DD".
 Date.prototype.simpleDateString = function() {
     function pad(value)

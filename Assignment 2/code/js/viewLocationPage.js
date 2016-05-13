@@ -1,3 +1,4 @@
+/*jslint white: true */
 // Code for the View Location page.
 
 // This is sample code to demonstrate navigation.
